@@ -1,0 +1,15 @@
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\bin\Debug\net8.0\projetoGFT.exe
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\bin\Debug\net8.0\projetoGFT.deps.json
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\bin\Debug\net8.0\projetoGFT.runtimeconfig.json
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\bin\Debug\net8.0\projetoGFT.dll
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\bin\Debug\net8.0\projetoGFT.pdb
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.AssemblyInfoInputs.cache
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.AssemblyInfo.cs
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.csproj.CoreCompileInputs.cache
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.sourcelink.json
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.dll
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\refint\projetoGFT.dll
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.pdb
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\projetoGFT.genruntimeconfig.cache
+C:\Gabriel\Bootcamp\C_Sharp\projetoGFT\obj\Debug\net8.0\ref\projetoGFT.dll
